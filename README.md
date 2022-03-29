@@ -14,13 +14,13 @@ Projeto muito bacana feito junto do curso da b7web com react e typescript. Nunca
 ### Pré requisitos
 Antes de iniciar você precisa ter o [Node](https://nodejs.org/en/) e o [Typescript](https://www.typescriptlang.org/) instalado na sua máquina. É bom também ter um editor de código como [VSCode](https://code.visualstudio.com/).
 
-# Clone o repositório
-$ git clone <https://github.com/d8web/React-ts-memory-game/>
+### Clone o repositório
+- `git clone <https://github.com/d8web/React-ts-memory-game/>`
 
-# Acesse a pasta do projeto que acabou de clonar
-$ cd React-ts-memory-game
+### Acesse a pasta do projeto que acabou de clonar
+- `cd React-ts-memory-game`
 
-### Instalação
+### Instalação das dependencias
 - `yarn`
 
 ### Executar
